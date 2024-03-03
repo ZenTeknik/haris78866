@@ -2,8 +2,13 @@
 </h1>
 
 I'm **Haris** , currently in my 2th semester of **Computer Science** at FAST-NUCES, and **Member** at **Colab Research Lab**. I'm
-currently diving into **Web-Devlopment**, **Robotics**,    1.5  years of experience as a
-**BPO-Verifer** . Additionally, I've served as a **2/Y** **Online** **Teacher** at **ECC(Eridute-Coaching Center)**. 🐧 Proud Arch **Linux user**.
+currently diving into **Web-Devlopment**, **Robotics**.
+ 🐧 Proud Arch **Linux user**.
+**Experience**
+**->** 1.5  years of  as a **BPO-Verifer** . 
+**->**I've served as a **2/Y** **Online** **Teacher** at **ECC(Eridute-Coaching Center)**.
+**Keen-Interested**
+**Automation-enthusiast** on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
 
 
 
