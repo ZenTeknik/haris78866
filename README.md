@@ -31,7 +31,7 @@ i'm interested in **Automation**<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,aurdino,c,cpp,html,css,bootstrap,js,git,linux,phyton" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,git,linux,python,arduino" />
   </a>
 </p>
 <h1 align="center">🐼 GitInsight  </h1>
