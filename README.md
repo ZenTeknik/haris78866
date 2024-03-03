@@ -5,10 +5,10 @@ I'm **Haris** , currently in my 2th semester of **Computer Science** at FAST-NUC
 currently diving into **Web-Devlopment**, **Robotics**.
  🐧 Proud Arch **Linux user**.<br>
 **Experience**<br>
-**->** 1.5  years of  as a **BPO-Verifer** . <br>
-**->** I've served as a **2/Y** **Online** **Teacher** at **ECC(Eridute-Coaching Center)**.<br>
+**->** 1.5  years  as a **BPO-Verifer** . <br>
+**->** I've served as a **1/Y** **Online** **Teacher** at **ECC(Eridute-Coaching Center)**.<br>
 **Keen-Interested**<br>
-**Automation-enthusiast** on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
+**Automation** enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
 
 
 
