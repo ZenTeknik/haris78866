@@ -16,7 +16,7 @@ currently diving into **Web-Devlopment**, **Robotics**,    1.5  years of experie
 <a  href="https://www.linkedin.com/in/haris-shahzad786/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/haris78866" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:arainharis@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://rohtanza.github.io/"><img  alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge"/>
+<a href="https://harisshahzadtech.blogspot.com"><img  alt="Blog" src="https://img.shields.io/badge/Personal%20Blog-20B2AA?style=for-the-badge"/>
 </div>
 <hr>
 <p align="left">
@@ -33,13 +33,13 @@ currently diving into **Web-Devlopment**, **Robotics**,    1.5  years of experie
 <h1 align="center">🐼 GitInsight  </h1>
 <table>
   <tr>
-<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rohtanza&show_icons=true&theme=dark" />
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohtanza&layout=compact&theme=dark" /></td>
+<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=haris78866&show_icons=true&theme=dark" />
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haris78866&layout=compact&theme=dark" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohtanza&layout=compact&theme=dark" alt="Rohtanza"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haris78866&layout=compact&theme=dark" alt="haris78866"/></p>
   </div>
 
  </div>
