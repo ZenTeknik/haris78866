@@ -32,8 +32,8 @@ i'm interested in **Automation**<br>
 <p align="center">
   <a href="https://skillicons.dev">
 haris78866-patch-1
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,git,linux,python,arduino" />
-    <img src="https://skillicons.dev/icons?i=Arduino,github,git,c,cpp,html,css,bootstrap,js,git,linux,python,azure,microsoft,microsoftlearn" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino" />
+
 main
   </a>
 </p>
