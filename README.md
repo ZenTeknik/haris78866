@@ -3,7 +3,7 @@
 
 I'm **Haris** , currently in my 2th semester of **Computer Science** at FAST-NUCES, and **Member** at **Colab Research Lab**. I'm
 currently diving into **Web-Devlopment**, **Robotics**.<br>
-🐧 Proud user of Arch **Linux** | Command line is my playground.<br>
+🐧 Proud user of Ubuntu **Linux** | Command line is my playground.<br>
 
 
 i'm interested in **Automation**<br>
