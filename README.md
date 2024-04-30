@@ -32,6 +32,7 @@ i'm interested in **Automation**<br>
 <p align="center">
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,Node.js" />
+<img src="https://skillicons.dev/icons?i=Node.js" />
 
    
 
