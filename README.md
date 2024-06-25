@@ -22,6 +22,10 @@ Automation enthusiast on a mission to innovate! 🚀 Passionate about turning ma
     <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,ssh" />
   </a>
 </p>
+
+<h1 align="center">🐼 GitInsight</h1>
+  </a>
+</p>
 <h1 align="center">🐼 GitInsight</h1>
 <table>
   <tr>
