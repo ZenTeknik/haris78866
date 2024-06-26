@@ -1,10 +1,10 @@
 <h1 align="center">Welcome 👋</h1>         
 
-I'm Haris, having completed my 2nd semester of Computer Science at FAST-NUCES, and a member at Colab Research Lab. I'm currently diving into Robotics and now on my summer break.
+I'm Haris, having completed my 2nd semester of Computer Science at FAST-NUCES, and a member at Colab Research Lab. I'm currently diving into **System Administration** and now on my summer break.
 
 🐧 Proud user of Ubuntu Linux | Command line is my playground..<br>
 
-I'm interested in Automation<br>
+I'm interested in Automation & Robotics <br>
 Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.
 <hr>
 <h1 align="center">Socials</h1>
@@ -23,7 +23,7 @@ Automation enthusiast on a mission to innovate! 🚀 Passionate about turning ma
   </a>
 </p>
 
-<h1 align="center">🐼 GitInsight</h1>
+
   </a>
 </p>
 <h1 align="center">🐼 GitInsight</h1>
