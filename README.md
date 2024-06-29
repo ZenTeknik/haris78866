@@ -19,7 +19,8 @@ Automation enthusiast on a mission to innovate! 🚀 Passionate about turning ma
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,Docker,ssh" />
+  <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,ssh" />
+
   </a>
 </p>
 
