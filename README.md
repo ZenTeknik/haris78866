@@ -18,14 +18,10 @@ Automation enthusiast on a mission to innovate! 🚀 Passionate about turning ma
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<body>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,ssh" />
-    </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppet/puppet-original.svg" alt="Puppet" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chef/chef-original.svg" alt="Progress Chef" width="50" height="50">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,html,css,bootstrap,js,linux,python,azure,arduino,jquery,vscode,nodejs,docker,ssh,puppet,chef" />
 </a>
-</body>
+
 </p>
 
 
