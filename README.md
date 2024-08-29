@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋</h1>         
 
-I'm **Haris**, currently in my 3rd semester of **Computer Science** at **FAST-NUCES** and a member of **COLAB (Research Lab)**. I'm currently diving into **Rsync** and **Django** and also focusing on improving my problem-solving techniques.
-
+I'm **Haris**, currently in my 3rd semester of **Computer Science** at **FAST-NUCES** and a member of **COLAB (Research Lab)**.
+I'm currently diving into **system administration** and **servers**, and also focusing on improving my problem-solving techniques.
 🐧 Proud user of Ubuntu Linux | Command line is my playground..<br>
 
 I'm interested in Automation & Robotics <br>
